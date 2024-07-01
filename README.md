@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KarolZajac
-- 🌱 I’m studying Computer Science at AGH in Cracow.
+- 🌱 I'm studying Computer Science - Data Science.
 - 📫 How to reach me : karol.zajac30@gmail.com
 
 <!---
